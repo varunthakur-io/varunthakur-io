@@ -58,9 +58,9 @@
 
 ## 📊 Performance & Insights
 
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunthakur-io&show_icons=true&count_private=true&hide_border=true)
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunthakur-io&show_icons=true&count_private=true&hide_border=true&cache_buster=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunthakur-io&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunthakur-io&layout=compact&hide_border=true&cache_buster=1)
 
 ---
 
